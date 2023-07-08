@@ -53,9 +53,9 @@ public class itProger
         ////Работа с потоками
         //Threads.Main();
 
-        //Работа с async
+        //Работа с async, parallel
         await AsyncParallel.Main();
-        
+        //wait Asss
     }
 
 }
