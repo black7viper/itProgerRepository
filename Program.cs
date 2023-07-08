@@ -55,7 +55,7 @@ public class itProger
 
         //Работа с async
         await AsyncParallel.Main();
-
+        
     }
 
 }
