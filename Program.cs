@@ -35,10 +35,13 @@ public class itProger
         ////Домашка 3
         //Homework3.Main();
 
+        ////Домашка Рустама Rotate Matrix
+        //HomeworkRotateMatrix.Main();
+
         ////Домашка Рустама Accounts
         //HomeworkAccounts.Main();
 
-        ////Домашка Рустама Accounts
+        ////Домашка Рустама Password Checker
         //HomeworkPasswordChecker.Main();
 
         ////Работа с событиями
@@ -55,7 +58,7 @@ public class itProger
 
         //Работа с async, parallel
         await AsyncParallel.Main();
-        //wait Asss
+ 
     }
 
 }
