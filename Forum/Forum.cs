@@ -1,0 +1,5 @@
+namespace itProger;
+
+class Forum{
+    
+}
