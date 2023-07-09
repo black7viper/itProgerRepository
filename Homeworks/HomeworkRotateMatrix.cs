@@ -3,10 +3,10 @@
 public class HomeworkRotateMatrix {
     
 	public static void Main() {
-        HomeworkRotateMatrix();
+        RotateMatrix();
     }
 
-	public static void HomeworkRotateMatrix(){
+	public static void RotateMatrix(){
 		
 		int[,] matrix = new int[,]{
             {1,2,3},
